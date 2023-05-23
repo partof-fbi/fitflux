@@ -1,0 +1,27 @@
+untuk menambahkan font didalam projek 
+
+- import {useFont} from "expo-font";
+
+- perhatikan alamat font yang ingin ditambahkan
+
+- buatlah semacam variabel boolean terserah biasa gunakan "fontLoaded" kemudian isi variabel tersebut dengan fungsi useFont dengan mengisi parameter string (nama font) dan alamat (required)
+
+- setelah itu jika bukan nilai dari variabel fontLoaded maka kembalikan nilai fontLoaded dengan nilai null (return null)
+
+
+berikut sintaks nya
+
+    import {userFont} from "expo-font";
+
+    const [fontLoaded] = useFonts({
+        "Roboto-Regular": require("./assets/fonts/Roboto-Regular.ttf"),
+        "Roboto-Bold": require("./assets/fonts/Roboto-Bold.ttf"),
+        "Roboto-Italic": require("./assets/fonts/Roboto-Italic.ttf"),
+        "My-Font": require("./assets/fonts/My-Font.ttf"),
+    });
+
+    if (!fontLoaded) return null;
+
+catatan :
+
+fontLoaded adalah sebuah variabel yang digunakan untuk menandakan apakah file-font yang diminta telah selesai dimuat atau belum. Variabel ini dideklarasikan menggunakan destrukturisasi array pada hasil pengembalian dari useFonts hook dari paket expo-font.

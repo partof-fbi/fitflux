@@ -1,0 +1,213 @@
+
+Otot Perut
+
+Pemula
+jumping jacks x20
+mountain climber x16
+heel touch x16
+leg raises x16
+cobra stretch 30s
+
+Menengah
+jumping jacks x25
+sit-ups x20
+heel touch x26
+mountain climber x20
+cobra stretch 30s
+
+
+Lanjutan
+Jumping Jacks x30
+sit-ups x30
+biscyle crunches x24
+V-up x18
+cobra stretch 30s
+
+
+
+
+Dada
+
+Dada Pemula
+Jumping Jacks x20
+incline push ups x10
+push up x8
+triceps dips x10
+cobra stretch 30s
+
+Dada Menengah
+Jumping Jacks x30
+knee push ups x12
+push ups x12
+decline push up x12
+cobra stretch 20s
+
+Dada Lanjutan
+Jumping Jacks x30
+arm circles x20
+burpees x10
+diamond push up x12
+chest stretch 30s
+
+JumpingJacksDadaLanjutan.js
+ArmCirclesDadaLanjutan.js
+BurpeesDadaLanjutan.js
+DiamondPushUpDadaLanjutan.js
+ChestStretchDadaLanjutan.js
+GerakanRepitisi6.js
+PersiapanGerakan6.js
+
+IstirahatJumpingJacksDadaLanjutan.js
+IstirahatArmCirclesDadaLanjutan.js
+IstirahatBurpeesDadaLanjutan.js
+IstirahatDiamondPushUpDadaLanjutan.js
+IstirahatDadaLanjutan.js
+
+
+
+
+Lengan
+
+Lengan Pemula
+arm circles x20
+leg barbell curl left x10
+leg barbell curl right x10
+floor tricep dips x12
+chest stretch 30s
+
+
+ArmCirclesLenganPemula.js
+LegBarbellCurlLeftLenganPemula.js
+LegBarbellCurlRightLenganPemula.js
+FloorTricepDipsLenganPemula.js
+ChestStretchLenganPemula.js
+PersiapanGerakan7.js
+GerakanRepitisi7.js
+
+IstirahatLenganPemula.js
+IstirahatArmCirclesLenganPemula.js
+IstirahatLegBarbellCurlLeftLenganPemula.js
+IstirahatLegBarbellCurlRightLenganPemula.js
+IstirahatFloorTricepDipsLenganPemula.js
+
+
+
+Lengan Menengah
+arm raises x20
+triceps dips x10
+diamond push up 6x
+diagonal plank x10
+wall push up x12
+
+
+ArmRaisesLenganMenengah.js
+TricepsDipsLenganMenengah.js
+DiamondPushUpLenganMenengah.js
+DiagonalPlankLenganMenengah.js
+WallPushUpLenganMenengah.js
+PersiapanGerakan8.js
+GerakanRepitisi8.js
+
+IstirahatLenganMenengah.js
+IstirahatArmRaisesLenganMenengah.js
+IstirahatTricepsDipsLenganMenengah.js
+IstirahatDiamondPushUpLenganMenengah.js
+IstirahatDiagonalPlankLenganMenengah.js
+
+
+
+Lengan Lanjutan
+arm circles x25
+leg barbell curl left x15
+leg barbell curl right x15
+floor tricep dips x20
+chest stretch 30s
+
+
+ArmCirclesLenganLanjutan.js
+LegBarbellCurlLeftLenganLanjutan.js
+LegBarbellCurlRightLenganLanjutan.js
+FloorTricepDipsLenganLanjutan.js
+ChestStretchLenganLanjutan.js
+PersiapanGerakan9.js
+GerakanRepitisi9.js
+
+
+IstirahatArmCirclesLenganLanjutan.js
+IstirahatLegBarbellCurlLeftLenganLanjutan.js
+IstirahatLegBarbellCurlRightLenganLanjutan.js
+IstirahatFloorTricepDipsLenganLanjutan.js
+IstirahatLenganLanjutan.js
+
+Kaki 
+
+Kaki Pemula
+squats x12
+backward lunge x14
+donkey kicks left x15
+donkey kicks right x15
+calf stretch 30s
+
+
+SquatsKakiPemula.js
+BackwardLungeKakiPemula.js
+DonkeyKicksLeftKakiPemula.js
+DonkeyKicksRightKakiPemula.js
+CalfStretchKakiPemula.js
+PersiapanGerakan10.js
+GerakanRepitisi10.js
+
+
+IstirahatSquatsKakiPemula.js
+IstirahatBackwardLungeKakiPemula.js
+IstirahatDonkeyKicksLeftKakiPemula.js
+IstirahatDonkeyKicksRightKakiPemula.js
+IstirahatKakiPemula.js
+
+Kaki Menengah
+Jumping Jacks x30
+squats x12
+lunges x14
+sumo squat x14
+calf stretch 30s
+
+
+JumpingJacksKakiMenengah.js
+SquatsKakiMenengah.js
+LungesKakiMenengah.js
+SumoSquatKakiMenengah.js
+CalfStretchKakiMenengah.js
+PersiapanGerakan11.js
+GerakanRepitisi11.js
+
+
+
+IstirahatJumpingJacksKakiMenengah.js
+IstirahatSquatsKakiMenengah.js
+IstirahatLungesKakiMenengah.js
+IstirahatSumoSquatKakiMenengah.js
+IstirahatKakiMenengah.js
+
+
+Kaki Lanjutan
+burpees x 10
+squats x20
+cursty lunges x15
+jumping squats x15
+calf stretch 30s
+
+
+BurpeesKakiLanjutan.js
+SquatsKakiLanjutan.js
+CurstyLungesKakiLanjutan.js
+JumpingSquatsKakiLanjutan.js
+CalfStretchKakiLanjutan.js
+PersiapanGerakan12.js
+GerakanRepitisi12.js
+
+
+IstirahatBurpeesKakiLanjutan.js
+IstirahatSquatsKakiLanjutan.js
+IstirahatCurstyLungesKakiLanjutan.js
+IstirahatJumpingSquatsKakiLanjutan.js
+IstirahatKakiLanjutan.js
